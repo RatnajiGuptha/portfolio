@@ -6,22 +6,21 @@ function About() {
         <div className="about-content">
           <div className="about-text">
             <p>
-              <strong>Full Stack Developer</strong> with 4.5 years of experience in designing, modernizing, 
-              and optimizing enterprise applications using Java, Spring Boot, and Angular.
+              <strong>Full Stack Developer</strong> with 4.5+ years of experience designing, building, 
+              and optimizing enterprise-grade applications using Java, Spring Boot, Angular, and microservices architecture.
             </p>
             <p>
-              Delivered impactful improvements including reducing deployment times by 62.5%, automating 
-              reporting processes, eliminating manual workflows, and reducing security vulnerabilities by 97%. 
-              Proven expertise in <strong>microservices migration</strong>, production stability, security 
-              remediation, and Agile/SAFe delivery.
+              Delivered measurable impact including <strong>62% reduction in deployment time</strong>, 97% reduction in 
+              security vulnerabilities, and 99.9% application uptime. Adept at leading performance optimization and 
+              security remediation in Agile/SAFe environments.
             </p>
             <p>
-              Multiple awards for operational excellence including Bravo Zulu and PPQ Awards at FedEx.
+              Recognized with multiple awards for operational excellence including Bravo Zulu and PPQ Awards at FedEx.
             </p>
           </div>
           <div className="about-highlights">
             <div className="highlight-card">
-              <span className="highlight-number">4.5</span>
+              <span className="highlight-number">4.5+</span>
               <span className="highlight-label">Years Experience</span>
             </div>
             <div className="highlight-card">

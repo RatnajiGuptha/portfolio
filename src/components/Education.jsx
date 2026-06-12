@@ -13,8 +13,8 @@ function Education() {
             </div>
             <h3>Bachelor of Technology (B.Tech)</h3>
             <p className="edu-subtitle">Electrical and Electronics Engineering</p>
-             <p className="edu-subtitle">Kakinada Institute of Engineering and Technology, Kakinada</p>
-            <p className="edu-period">June 2018 – October 2021</p>
+            <p className="edu-subtitle">Kakinada Institute of Engineering and Technology, Kakinada</p>
+            <p className="edu-period">June 2018 – October 2021 </p>
           </div>
           <div className="edu-card">
             <div className="edu-icon">
@@ -25,7 +25,7 @@ function Education() {
             </div>
             <h3>Diploma in Electrical & Electronics Engineering (EEE)</h3>
             <p className="edu-subtitle">Kakinada Institute of Engineering and Technology, Kakinada</p>
-            <p className="edu-period">June 2015 – March 2018</p>
+            <p className="edu-period">June 2015 – May 2018 </p>
           </div>
         </div>
       </div>

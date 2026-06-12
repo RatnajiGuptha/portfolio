@@ -5,11 +5,10 @@ function Achievements() {
       title: 'Bravo Zulu Award – Deployment Optimization and Security Remediation',
       cert: `${import.meta.env.BASE_URL}BZ - Guptha.pdf`,
       points: [
-        'Optimized deployment process, cutting time from 4+ hours to 1.5 hours with no downtime.',
-        'Automated application usage report generation, cutting processing time from hours to minutes.',
-        'Streamlined one of our application access processes by eliminating manual tasks.',
-        'Reduced infra and application vulnerabilities from over 50,000 to 1,500, significantly enhancing compliance.',
-        'Introduced initiative-taking SSL certificate tracking, ensuring timely renewals and complete visibility.',
+        'Reduced deployment time from 4+ hours to 1.5 hours with zero downtime, saving 10+ engineering hours quarterly.',
+        'Automated report generation processes, cutting processing time from hours to minutes.',
+        'Eliminated manual application access workflows, improving team productivity by 30%.',
+        'Lowered vulnerabilities from 50,000+ to 1,500 (97% reduction), achieving full regulatory compliance.',
       ],
     },
     {
@@ -17,8 +16,9 @@ function Achievements() {
       title: 'Bravo Zulu Award – Regulatory Adaptability',
       cert: `${import.meta.env.BASE_URL}bz_evp.pdf`,
       points: [
-        'Recognized for adaptability, creative solutioning, and bias to action in overhauling processes to meet evolving regulatory requirements.',
-        'Contributed to stabilizing global footprint while delivering meaningful value for customers and shareholders through strong cross-functional partnership.',
+        'Overhauled end-to-end processes at speed to adapt to new tariff policies and De Minimis regulatory changes, ensuring zero disruption to global operations.',
+        'Partnered across Operations, Data & Tech, and FedEx Logistics to stabilize global footprint while delivering measurable value for customers and shareholders.',
+        'Recognized for adaptability, creative solutioning, and bias to action in navigating complex regulatory shifts with no compliance gaps.',
       ],
     },
     {
@@ -26,15 +26,15 @@ function Achievements() {
       title: 'PPQ Award – Outstanding Performance',
       cert: `${import.meta.env.BASE_URL}PPQA Certificate.pdf`,
       points: [
-        'Recognized for outstanding Quality-Driven Management performance on the Electronic Export Information (EEI) Automation project, enhancing customer experience at FedEx.',
+        'Recognized for quality-driven delivery on the Electronic Export Information (EEI) Automation project, enhancing customer experience and reducing manual processing by 60%.',
       ],
     },
     {
       icon: '🎓',
-      title: 'SAFe 6.0 Certified',
+      title: 'SAFe 6.0 Certified – Scaled Agile, Inc.',
       cert: `${import.meta.env.BASE_URL}Safe 6.0.pdf`,
       points: [
-        'Certified SAFe 6.0 practitioner, demonstrating expertise in Agile frameworks and Lean-Agile principles for enterprise-scale delivery.',
+        'Certified SAFe 6.0 Practitioner, demonstrating expertise in Agile frameworks and Lean-Agile principles for enterprise-scale delivery.',
       ],
     },
   ]

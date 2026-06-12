@@ -14,7 +14,7 @@ function Hero() {
           Java &bull; Spring Boot &bull; Angular &bull; System Design
         </p>
         <p className="hero-description">
-          Building enterprise-grade applications with 4.5 years of experience in designing, modernizing, and optimizing distributed systems.
+          Building enterprise-grade applications with 4.5+ years of experience in designing, building, and optimizing distributed systems. Delivered 62% deployment time reduction, 97% vulnerability reduction, and 99.9% uptime.
         </p>
         <div className="hero-cta">
           <a href="#contact" className="btn btn-primary">Get In Touch</a>
