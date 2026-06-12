@@ -46,7 +46,7 @@ function Navbar() {
           ))}
           <li>
             <a
-              href={`${import.meta.env.BASE_URL}/Ratnaji_Guptha.pdf`}
+              href={`${import.meta.env.BASE_URL}Ratnaji_Guptha.pdf`}
               className="nav-resume-btn"
               target="_blank"
               rel="noopener noreferrer"
